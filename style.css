@@ -283,7 +283,7 @@ footer {
 
 /*Banner*/
 .index_banner {
-    background: url(/backimg.jpg);
+    background: url(backimg.jpg);
     background-position: center;
     height: 300px;
     border-bottom: 1px solid #fff;
@@ -754,7 +754,7 @@ go to the CSS for the Resources Page*/
     height: auto;
     width: 100%;
     padding: 25px 10px;
-    background: url(/backimg.jpg);
+    background: url(backimg.jpg);
     background-position: center;
     border-bottom: 1px solid #fff;
 }
