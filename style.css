@@ -889,7 +889,7 @@ go to the CSS for the Resources Page*/
 @media (max-width: 500px) {
     .about_rickardsmun {
         padding: 10px;
-        background: url(/img/backimg.jpg);
+        background: url(backimg.jpg);
         background-position: center;
         background-repeat: no-repeat;
     }
